@@ -1,12 +1,10 @@
 ## Heey! Eu sou o Lucas Aguiar 👾
-#### Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end como: 
+#### 📚 Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end como: 
 - HTML5
 - CSS3
 - Javascript
 - SASS
 #### Já passei por algumas linguagens como Python e C, porém tive que escolher uma para focar e optei por Javascript.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Aguiar-La=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
