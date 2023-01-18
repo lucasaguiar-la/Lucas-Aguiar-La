@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HEEY,+Meu+nome+é+Lucas+Aguiar;Tenho+24+anos;Atualmente+sou+estudante+de+ADS;Seja+Bem-Vindo!!+:%29&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Oláá,+Meu+nome+é+Lucas+Aguiar;Tenho+24+anos;Atualmente+sou+estudante+de+ADS;Seja+Bem-Vindo!!+:%29&duration=3000)](https://git.io/typing-svg)
 
 ## Heey! Eu sou o Lucas Aguiar 👾
 #### 📚 Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end como: 
