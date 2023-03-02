@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo(a)!!+:%29&duration=2300)](https://git.io/typing-svg)
-
 ## Heey! Eu sou o Lucas Aguiar 👾
 #### 📚 Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end como: 
 - HTML5
