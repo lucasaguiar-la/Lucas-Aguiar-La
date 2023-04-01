@@ -7,7 +7,7 @@
 - JavaScript
 - PHP
 - SASS
-#### Já passei por algumas linguagens como Python e C, porém tive que escolher uma para focar e optei por Javascript para front-end e php para back-end.
+#### Já passei por algumas linguagens como Python e C que me introduziram à programação e sua lógica, porém atualmente opto e estudo nas linguagens JavaScript e PHP.
 
 ## Tecnologias que eu estudo
 
