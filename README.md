@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
 ## Heey! Eu sou o Lucas Aguiar 👾
-#### 📚 Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end como: 
+#### 📚 Sou estudante de programação e atualmente faço faculdade de análise e desenvolvimento de sistemas. Estudo também algumas tecnologias de front-end e back-end como: 
 - HTML5
 - CSS3
 - JavaScript
